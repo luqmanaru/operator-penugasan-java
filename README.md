@@ -18,7 +18,8 @@ Hasil perkalian: 392
 ---
 
 ## Diagram Alur
-```flowchart TD
+```
+flowchart TD
     A[Start] --> B[Initialize a=7, b=56]
     B --> C[b *= a]
     C --> D[Print hasil]
